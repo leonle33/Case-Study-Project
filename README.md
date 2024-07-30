@@ -11,4 +11,5 @@ There are six steps that go into the data analysis phase:
 * Analyze
 * Share
 * Act
+  
 In this case study, I will demonstrate each of these steps in order to solve the business task at hand.
