@@ -5,10 +5,10 @@ This is the capstone project portion for the Google Data Analytics Professional 
 Data Analysis Process
 There are six steps that go into the data analysis phase:
 
-Ask
-Prepare
-Process
-Analyze
-Share
-Act
+* Ask
+* Prepare
+* Process
+* Analyze
+* Share
+* Act
 In this case study, I will demonstrate each of these steps in order to solve the business task at hand.
